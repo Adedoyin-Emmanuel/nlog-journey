@@ -1,8 +1,10 @@
 {
   "version": 2,
-  "dgSpecHash": "GIVkVMB/jNNQE4ylrkeQlRY0wnCXa8JQrOqeeSG+Xu5tEJrmXfuWESvN7Jj6FpU9f4gBcZ6I35PneAbvAezbmA==",
+  "dgSpecHash": "2mTY2S5Pvlm2lAgbWa94BOQ9MPPht6KbnVXwhkAmRyULoJ/HFlGzXqPsOYPH+8/GhW5ur0/P0mNsws6qRFd88g==",
   "success": true,
   "projectFilePath": "/Users/mac/Desktop/nlog-journey/nlog-journey.csproj",
-  "expectedPackageFiles": [],
+  "expectedPackageFiles": [
+    "/Users/mac/.nuget/packages/nlog/5.3.4/nlog.5.3.4.nupkg.sha512"
+  ],
   "logs": []
 }
