@@ -10,6 +10,11 @@ namespace NlogJourney
         static void Main()
         {
             Logger.Debug("The program has started");
+            Logger.Debug("Connected to database successfully");
+            Logger.Fatal("Omor, this one tough o");
+
+            Logger.Warn("Trying to access an undefined variable");
+            
 
             try
             {
